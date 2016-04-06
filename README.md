@@ -7,8 +7,8 @@ Psychological tests implemented for Embraced Project to measure the attention of
 
 
 ## Implementation
-Two tests have been implemented using Phaser, a framework for game design in Javascript language:
+Two tests have been implemented using Phaser, a framework for game design in Javascript language.
 
 ## Instructions
-Each test is auto-explained in the start screen.
+To execute a test just open the **index.html** file in any browser (Chrome is optimal) . Then an explanation of each test will be shown in the start screen.
 ## Screenshots
